@@ -63,7 +63,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 Após ter feito a configuração de instalação na máquina é necessário fazer o download do repostiório [aqui](https://github.com/joseaugustodardengo/Proffy/archive/master.zip)
 ou realizar o clone do repositório.
 ```
-gti clone https://github.com/joseaugustodardengo/Proffy
+git clone https://github.com/joseaugustodardengo/Proffy
 ```
 Após feito o download, só seguir os passos a seguir no terminal do seu sistema operacional, para conseguir executar os serviços da aplicação.
 
